@@ -67,7 +67,7 @@ Daily learning logs, experiments, notes, and implementations while mastering mod
 # 🤝 Professional Connect
 
 <p align="center">
-    <a https://www.linkedin.com/in/prabhash-jha-6077953b4/>
+    <a href="https://www.linkedin.com/in/prabhash-jha-6077953b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Prabhashjha2711">
@@ -80,7 +80,7 @@ Daily learning logs, experiments, notes, and implementations while mastering mod
 # 💻 Competitive Programming
 
 <p align="center">
-  <a "href=https://leetcode.com/u/Prabhash0Jha"/>
+  <a href="https://leetcode.com/u/Prabhash0Jha"/>
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   
